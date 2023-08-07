@@ -40,6 +40,12 @@
     <loc>http://annuaire.agistaterre.org/telraamStats/reference/filtering.html</loc>
   </url>
   <url>
+    <loc>http://annuaire.agistaterre.org/telraamStats/reference/gg_na_dist.html</loc>
+  </url>
+  <url>
+    <loc>http://annuaire.agistaterre.org/telraamStats/reference/gg_na_heatmap.html</loc>
+  </url>
+  <url>
     <loc>http://annuaire.agistaterre.org/telraamStats/reference/gg_working_sensor.html</loc>
   </url>
   <url>
@@ -58,10 +64,7 @@
     <loc>http://annuaire.agistaterre.org/telraamStats/reference/mutate_date_time.html</loc>
   </url>
   <url>
-    <loc>http://annuaire.agistaterre.org/telraamStats/reference/mutate_udh.html</loc>
-  </url>
-  <url>
-    <loc>http://annuaire.agistaterre.org/telraamStats/reference/mutate_uptime.html</loc>
+    <loc>http://annuaire.agistaterre.org/telraamStats/reference/na_prop.html</loc>
   </url>
   <url>
     <loc>http://annuaire.agistaterre.org/telraamStats/reference/plot_comparaison.html</loc>
